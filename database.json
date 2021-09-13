@@ -1,66 +1,11 @@
 {
-  "workspace": {
-    "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git": [
-      "https://github.com/madhephaestus/heatedThreadedInsertCadGenerator.git",
-      "1631539617355"
-    ],
-    "https://github.com/Hephaestus-Arm/HephaestusArm2.git": [
-      "https://github.com/Hephaestus-Arm/HephaestusArm2.git",
-      "1631539616732"
-    ],
-    "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git": [
-      "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
-      "1631539620515"
-    ],
-    "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git": [
-      "https://github.com/madhephaestus/LewanSoulMotorCadGenerator.git",
-      "1631539621195"
-    ],
-    "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git": [
-      "https://github.com/madhephaestus/LewanSoulHornCadGenerator.git",
-      "1631539622524"
-    ],
-    "https://github.com/Gregory-Marshall-2023/clojure-cad_Gregory-Marshall-2023.git": [
-      "https://github.com/Gregory-Marshall-2023/clojure-cad_Gregory-Marshall-2023.git",
-      "1631534879934"
-    ],
-    "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git": [
-      "https://gist.github.com/ace0bc0c07499df3a45381c70d63527b.git",
-      "1631539621694"
-    ],
-    "https://github.com/Gregory-Marshall-2023/cadGenHephaestusArm_Gregory-Marshall-2023.git": [
-      "https://github.com/Gregory-Marshall-2023/cadGenHephaestusArm_Gregory-Marshall-2023.git",
-      "1631540241802"
-    ]
-  },
-  "studio-open-web": {},
-  "katapult": {
-    "gameControllerNames": [
-      "Play",
-      "Game",
-      "X-Box",
-      "Dragon"
-    ],
-    "linkDeviceName": "dyio",
-    "robotName": "CarlTheWalkingRobot",
-    "robotGitFile": "CarlTheRobot.xml",
-    "robotGit": "https://github.com/madhephaestus/carl-the-hexapod.git"
-  },
-  "studio-open-git": {
-    "https://github.com/Gregory-Marshall-2023/cadGenHephaestusArm_Gregory-Marshall-2023.git:cadGenHephaestusArm.groovy": [
-      "https://github.com/Gregory-Marshall-2023/cadGenHephaestusArm_Gregory-Marshall-2023.git",
-      "cadGenHephaestusArm.groovy"
-    ]
-  },
+  "studio-open-git": {},
   "BowlerStudioConfigs": {
     "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
-    "firstVersion": "1.36.0",
     "tutorialBranch": "master",
     "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
-    "fontsize": 12.0,
+    "fontsize": 12,
     "skinBranch": "1.36.0",
-    "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git",
-    "notifiedArduinoDep": true,
-    "currentVersion": "1.36.0"
+    "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git"
   }
 }
